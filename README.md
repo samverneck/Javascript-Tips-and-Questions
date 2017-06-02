@@ -14,6 +14,9 @@ E assim espero que possamos começar algo bom !
 
 Vamos as "Regras"
 
+Crie uma Issue com sua Dica, Duvida, Sugestão, Link Etc.... e quem conseguir ajudar/resolver/esclarecer as duvidas do pessoal, o faça, estamos aqui para compartilhar conhecimento pessoal.
+
+
 . Indice
 1. [ Dica ]  - Para quando for alguma dica, link ou algo que ajude acomunidade
 
