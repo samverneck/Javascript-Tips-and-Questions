@@ -5,7 +5,9 @@ Um Repositório para juntar dicas e tirar dúvidas
 
 A Idéia surgiu depois de um twitt/post do [Suissa](https://www.facebook.com/suissa?fref=nf)
 > Galera com dúvidas de JS em vez de me perguntar direto pq nao criam um repo de estudos e criam 1 ISSUE por dúvida aí soh me mandar!
+
 e o Comentário do  [Samuel](https://www.facebook.com/profile.php?id=100010081263474&fref=ufi)
+
 > vamos criar um repo? bora?
 
 E assim espero que possamos começar algo bom ! 
